@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pop-dijkemaweg",
+    "naam": "Viaduct Pop Dijkemaweg",
+    "bijnaam": "De Busjesvreter van Oost",
+    "wijk": "Hunzeboord",
+    "lat": 53.2365,
+    "lon": 6.5872,
+    "match": "pop\\s*dijkema",
+    "weetje": "Claimt volgens OOG 'zoveelste slachtoffer' na zoveelste slachtoffer. Supermarktbusjes zijn favoriet."
+  },
+  {
+    "id": "olgerweg",
+    "naam": "Viaduct Olgerweg",
+    "bijnaam": "De Olgerguillotine",
+    "wijk": "Engelbert",
+    "lat": 53.2136,
+    "lon": 6.637,
+    "match": "olgerweg",
+    "weetje": "Kreeg in 2022 hoogteportalen. Het viaduct zelf bleef even laag."
+  },
+  {
+    "id": "emmaviaduct",
+    "naam": "Emmaviaduct",
+    "bijnaam": "Ome Emma",
+    "wijk": "Rivierenbuurt / Stationsgebied",
+    "lat": 53.2085,
+    "lon": 6.5622,
+    "match": "emmaviaduct",
+    "weetje": "Speelt in een hogere klasse: hier rijden zelfs Qliners en vrachtwagens zich vast."
+  },
+  {
+    "id": "oosterhavenbrug",
+    "naam": "Oosterhavenbrug",
+    "bijnaam": "De Verhuisval",
+    "wijk": "Oosterpoort / Kop van Oost",
+    "lat": 53.217,
+    "lon": 6.5801,
+    "match": "oosterhavenbrug",
+    "weetje": "Verhuisbusjes, let op: je inboedel past hier niet onderdoor."
+  },
+  {
+    "id": "oosterpark",
+    "naam": "Tunneltje Oosterpark",
+    "bijnaam": "t Oooosterpààààrk-gat",
+    "wijk": "Oosterparkwijk (locatie bij benadering)",
+    "lat": 53.2195,
+    "lon": 6.5905,
+    "match": "oo+sterp[aà]+rk|oosterparkwijk",
+    "weetje": "Waar je Jumbo-boodschappen nét niet aankomen."
+  },
+  {
+    "id": "wielerbaan",
+    "naam": "Loopbrug wielerbaan Kardinge",
+    "bijnaam": "De Fietsenmakersfuik",
+    "wijk": "Kardinge (locatie bij benadering)",
+    "lat": 53.2365,
+    "lon": 6.6125,
+    "match": "wielerbaan|kardinge",
+    "weetje": "Bewijs dat ook een loopbrug een busje kan vangen."
+  },
+  {
+    "id": "a7",
+    "naam": "Viaducten A7 / Zuidelijke Ring",
+    "bijnaam": "De Waarschuwingsbalk-Boulevard",
+    "wijk": "Zuidelijke Ringweg (locatie bij benadering)",
+    "lat": 53.2045,
+    "lon": 6.545,
+    "match": "\\bA7\\b|zuidelijke ring|hoogkerk",
+    "weetje": "Hier sneuvelt vaker de waarschuwingsbalk dan het busje."
+  },
+  {
+    "id": "a28",
+    "naam": "Viaduct A28 Groningen-Zuid",
+    "bijnaam": "De Oude Rot",
+    "wijk": "Helpman / Zuid (locatie bij benadering)",
+    "lat": 53.1965,
+    "lon": 6.5765,
+    "match": "\\bA28\\b|groningen-zuid",
+    "weetje": "Al in 2011 in het nieuws. Een klassieker."
+  },
+  {
+    "id": "overig",
+    "naam": "Elders in Stad en Ommeland",
+    "bijnaam": "Het Wilde Westen (en Oosten, Noorden, Zuiden)",
+    "wijk": "Overal",
+    "lat": null,
+    "lon": null,
+    "match": null,
+    "weetje": "Overkappingen, slagbomen, tunneltjes: niets is veilig."
+  }
+]

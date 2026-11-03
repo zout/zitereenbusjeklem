@@ -1,0 +1,44 @@
+name: Busjesradar
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: busjesradar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Scan Groningse bronnen
+        run: node scraper/scrape.mjs
+      - name: Commit nieuwe busjes
+        run: |
+          git config user.name "Busjesradar"
+          git config user.email "radar@zitereenbusjeklem.nl"
+          git add data feed.xml
+          git diff --cached --quiet || git commit -m "Busjesradar: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4

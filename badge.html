@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Busjesbadge</title>
+<style>
+  html, body { margin: 0; background: transparent; }
+  a { display: flex; align-items: center; gap: 10px; width: 300px; height: 110px; box-sizing: border-box; padding: 10px 14px;
+      text-decoration: none; font-family: Impact, "Arial Black", sans-serif; color: #fff; border: 4px ridge #ffde00;
+      background: repeating-linear-gradient(45deg, #1f8a1f 0 14px, #26a326 14px 28px); }
+  a.joa { background: repeating-linear-gradient(45deg, #c00 0 14px, #e00 14px 28px); animation: k .5s steps(1) infinite; }
+  .busje { font-size: 46px; }
+  .vraag { font-family: "Comic Sans MS", cursive; font-weight: bold; font-size: 13px; }
+  .antw { font-size: 44px; line-height: 1; -webkit-text-stroke: 1.5px #000; }
+  .sub { font-family: "Courier New", monospace; font-size: 11px; font-weight: bold; }
+  @keyframes k { 50% { filter: invert(1); } }
+</style>
+</head>
+<body>
+<a id="b" href="https://zitereenbusjeklem.nl/" target="_blank" rel="noopener">
+  <span class="busje">🚐</span>
+  <span><span class="vraag">Zit er n busje klem?</span><br><span class="antw" id="a">...</span><br><span class="sub" id="s">zitereenbusjeklem.nl</span></span>
+</a>
+<script>
+fetch('data/status.json?t=' + Date.now()).then(r => r.json()).then(s => {
+  document.getElementById('a').textContent = s.klem ? 'JOA!!!' : 'NEE.';
+  if (s.klem) document.getElementById('b').className = 'joa';
+  document.getElementById('s').textContent = s.klem ? 'Rij om! Kom kieken!' : 'Nog nait. zitereenbusjeklem.nl';
+}).catch(() => { document.getElementById('a').textContent = '???'; });
+setTimeout(() => location.reload(), 5 * 60e3);
+</script>
+</body>
+</html>

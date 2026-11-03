@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="ruit" width="120" height="120" patternUnits="userSpaceOnUse"><rect width="120" height="120" fill="#1f8a1f"/><rect width="60" height="60" fill="#fff"/><rect x="60" y="60" width="60" height="60" fill="#fff"/></pattern>
+    <linearGradient id="vuur" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffef00"/><stop offset=".5" stop-color="#ff5a00"/><stop offset="1" stop-color="#c0005a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ruit)"/>
+  <rect x="40" y="40" width="1120" height="550" fill="#fffbe0" stroke="#000" stroke-width="10"/>
+  <text x="600" y="170" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="92" fill="url(#vuur)" stroke="#000" stroke-width="4">ZIT ER EEN BUSJE KLEM?</text>
+  <text x="600" y="400" text-anchor="middle" font-size="200">🚐💥🌉</text>
+  <text x="600" y="530" text-anchor="middle" font-family="Comic Sans MS, cursive" font-weight="bold" font-size="40" fill="#0d4d0d">Live busjesalarm van Grunn · zitereenbusjeklem.nl</text>
+</svg>

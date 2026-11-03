@@ -1,0 +1,489 @@
+{
+  "gegenereerd": "2026-11-03T10:24:56.117Z",
+  "downtimeUren": 4,
+  "incidents": [
+    {
+      "id": "6239005846",
+      "hotspot": "a28",
+      "type": "incident",
+      "titel": "Vrachtauto vast onder viaduct A28",
+      "start": "2011-01-28T08:00:00.000Z",
+      "eind": "2011-01-28T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Vrachtauto vast onder viaduct A28",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EQnBmaXBObXVkWnpYMmZQUWVGNVpodE1fcjUxeWtURks5N3pSMXllSFhBRXpmeHkxTGxHLTJON0xRNXh5OGpMTWdpcTd5Z1poaDFyUDJEVWgyZTk5cF9MZXQ0ZjNhaEhRbUljVVlPQ1ozdw?oc=5",
+          "pubDate": "2011-01-28T08:00:00.000Z"
+        },
+        {
+          "titel": "Vrachtwagen vast onder A28 bij Groningen-Zuid",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2RJVm1hZVplOW5JSTVBXy14akc3cUlFdVpSSjZoQ2JZX05JQU1CMTdXb1ZKa3hhbS1XQUZkZ0w4eWtRd3Y3MzdhMXRTNnAzdHVDSGpwdlJ5R3FIUk5LV0gwbi1vc2NHc1RTSDB0MWc5SUZGUmtidG10b1pDOC1aRllobUNQUlV4Mnc?oc=5",
+          "pubDate": "2011-01-28T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "a09be81671",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Koerier met busje klem onder viaduct in Groningen",
+      "start": "2012-04-03T07:00:00.000Z",
+      "eind": "2012-04-03T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Koerier met busje klem onder viaduct in Groningen",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjg1Ml9KS0VmZTNxbTM5SkdHQ3FUdGxuaGF2SlNCY2tvdEpPN0F3MTZrMjBuQ0diZGJxam1qY0lxeVpsZnZpWm14S2UtVWFIMDVRcFZaLTJiMWtxNHNDN2ZiNS1RT0NOc1pLb2wwd29MRWRXS21xTm9wcExvbzBuQ2hhRFVQdWhUVXNvV0ljY1Q?oc=5",
+          "pubDate": "2012-04-03T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "89dd7ebd62",
+      "hotspot": "emmaviaduct",
+      "type": "incident",
+      "titel": "Vrachtwagen zit klem onder Emmaviaduct",
+      "start": "2017-01-23T08:00:00.000Z",
+      "eind": "2017-01-23T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Vrachtwagen zit klem onder Emmaviaduct",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1U5SXYwbjRLLTNhc3ZDSzZYa3lyZU81OTFaV3l0M2lualI0emtJMDVoRlFfSEFJWjNQS3V5R2dEbHdGMVdmRXozeFB2WDdXcmFZZTNZSXRtT3M1UDBFMjJweDRaYVdDR0JJdmZjdmd4T0V1bzEyTUZrYl9iU0RHN0lR?oc=5",
+          "pubDate": "2017-01-23T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "6df98e28ad",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Vuilniswagen zit klem onder slagboom van brug (update)",
+      "start": "2019-04-06T07:00:00.000Z",
+      "eind": "2019-04-06T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Vuilniswagen zit klem onder slagboom van brug (update)",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmhuLW1HVE5jSzZHX0gycWtJc0lxVTlMajFBZEJWVk9qM1A3cG83RzFfeU5UUzltV1Y1NWFGbDlTOXZ3SEl1UHlvWHE3Y2hoLXBMQkxNUl9OTDRVZGhQMjQyNGV2SUxsRk9KMzFFSWR6REQ2U3l3ZHBQZDNCaXlsVzVzZ29VNG5oNzNOU1VkYXNEc2FO?oc=5",
+          "pubDate": "2019-04-06T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "c69cef5a7d",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Bestelbus komt vast te zitten onder viaduct",
+      "start": "2020-01-30T08:00:00.000Z",
+      "eind": "2020-01-30T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bestelbus komt vast te zitten onder viaduct",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjF0Wm52S3ZFR2lEV3VwakxoRUVzMkpnSWRpQm1oY1poVlZpN01IaXFpVmtsNXY0LThvdjZ6MHg3ZFRlWTlYRTAySEdrZVl3ZU5WWjdnM2MyaFYwTlFTSjBhZkxMbVR5OEtTV2RGVF95dm1rWi1UZmx3SkNfc3pROW5vUUhGMjQx?oc=5",
+          "pubDate": "2020-01-30T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "4c03f4c95b",
+      "hotspot": "pop-dijkemaweg",
+      "type": "incident",
+      "titel": "Bestelwagen rijdt zich klem onder viaduct bij Pop Dijkemaweg",
+      "start": "2021-05-24T07:00:00.000Z",
+      "eind": "2021-05-24T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bestelwagen rijdt zich klem onder viaduct bij Pop Dijkemaweg",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdktrNXN3bDE4ZG1zS1RabC1rSTItNFNFeElDRDZKYW1iUUlicWs2bnpmQUN5NFJkdGItLUlHVkROVEQ3NUJSM1owMldXcEh3NlQ4X09ZNk9pUS1qNG90eDhMbGsyMndnZ215VkpWVGwxbGVOZ3JrQ0ZwaDZnOXNkOXVrV1RtLV8yeGY3MmFwZm9zcFJE?oc=5",
+          "pubDate": "2021-05-24T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "634093de55",
+      "hotspot": "oosterhavenbrug",
+      "type": "incident",
+      "titel": "Busje rijdt zich klem onder Oosterhavenbrug",
+      "start": "2021-07-06T07:00:00.000Z",
+      "eind": "2021-07-06T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Busje rijdt zich klem onder Oosterhavenbrug",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbnQtYkl4VzRaVnBFc25mQlFZQ0FLZEpzNXhqRlJpWk1XcGtQY3NJeHNtbzkxd1BKTmJZYXV6QnBnaTg1aFhVZTNVY244QVNWVVM4UkN3bmxZWVFTcVpXVkstUnNIalRuZTB3TWdSaGlybFRMS09lMGc0Z0NEall1TS1tT0NORTRC?oc=5",
+          "pubDate": "2021-07-06T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "778d8d417d",
+      "hotspot": "olgerweg",
+      "type": "incident",
+      "titel": "Viaduct te laag of camper te hoog? Camper zit klem onder viaduct aan de Olgerweg in Groningen",
+      "start": "2021-08-22T07:00:00.000Z",
+      "eind": "2021-08-22T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Viaduct te laag of camper te hoog? Camper zit klem onder viaduct aan de Olgerweg in Groningen",
+          "medium": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdlNCYWU3aXlwLUdrcjYtWlJMcmJSakxJSVBzRlJCakFNM0d4a05Fb2RlUVVrd1ZEV09Bc2xKQ3k5bnhiaWVqRzJrRlhRbTBlSnVNWXQ4YnVxbUVNX0NSdTI3OERYdlJqbUtzdUhjaktIbjBtckFXaWdIcVpXQkFYbUV3dE85VU9ZU2tfbmw1RDhiX3FfMlU0UGN6aGlhTjloeV84LUJhWHdvSE85Z2xuRU1fRlk3LWpUQ1N3bXFDTUl6ZHNad1MzRnJWdVpZWlZtWmZBREFsRExhRjA?oc=5",
+          "pubDate": "2021-08-22T07:00:00.000Z"
+        },
+        {
+          "titel": "Belgische camper rijdt zich klem onder viaduct in Stad",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2lEeVl6aWNZUl9YempzdV9RTjZyaUo3YllaVUxHYW1aNDRMbzZua094MkhOTDZyMVhRVFEyb0RzT0k3S0FsYTdUZUhLNXFKNldCTktnNHF4a2VUTndBeW91ak96blhRVmhBTlN3d1lYU0p6a0NuQUY1RF9SeVlJOUdjaEhnbWVlMlY1OEYxSlJ0cGZCbmxN?oc=5",
+          "pubDate": "2021-08-22T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "dffd0027f9",
+      "hotspot": "olgerweg",
+      "type": "incident",
+      "titel": "Bestelwagen klem onder viaduct op Olgerweg in Stad",
+      "start": "2021-09-25T07:00:00.000Z",
+      "eind": "2021-09-25T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bestelwagen klem onder viaduct op Olgerweg in Stad",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVdLbXZnUnNVbnV4QkZ4cW56cHBsanc3Z3lhQ1NBY2dtRHlSUzNEZk42SGF2TGVMVnhERXVCdVlpelJZYnNNT2hNaVNCUDctLWxmcFNyalNTOWx5UV81TkxrN3RRcDlXQ1JwUVJXTVc0RS1nSEF0ZFEydHpUbkdjTzh3c2dWRXVzOURSVjIzZFFTdw?oc=5",
+          "pubDate": "2021-09-25T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "0f26bdcd7b",
+      "hotspot": "olgerweg",
+      "type": "incident",
+      "titel": "Bestuurder bestelbus ramt onderkant viaduct Olgerweg in Groningen",
+      "start": "2022-05-10T07:00:00.000Z",
+      "eind": "2022-05-10T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bestuurder bestelbus ramt onderkant viaduct Olgerweg in Groningen",
+          "medium": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEVSS3hETUVjZFJzajVKT3JCRm5WM2p4WlVSaDYwVV81bU1jMmlrTG94dlBBTHBvZXl2WDBBMi1PX3FUSDV4RXJ2a0NEb1ZlcXE4cFEya3AtclpUSFRuVkhaemVxQy1SVE5HUmp3NExDaW1pbkVDSmxVdDZTVm12X2ota2tUcGRzY1ZDR1ZtNFhWb1dWdG41Z1ZjMlF2QUw5NVhsMWFCVU4xWW14aWc3bXRhQjM?oc=5",
+          "pubDate": "2022-05-10T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "5d4e298dd8",
+      "hotspot": "pop-dijkemaweg",
+      "type": "incident",
+      "titel": "Bezorgbus supermarkt rijdt zich klem onder viaduct Pop Dijkemaweg",
+      "start": "2022-07-01T07:00:00.000Z",
+      "eind": "2022-07-01T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bezorgbus supermarkt rijdt zich klem onder viaduct Pop Dijkemaweg",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUl84QllBYk9Iek9nVmpoTUh6TDZsVWJ0TlFyWWdrWlpkMGtwMVR3M2N0ekcxbkIwZ2NxLTk0T0dUTGtIMzVXaFJIeWstSWpTeERyakdER2dqN25Tcjh6NDdjMGNFcm9YTjZjUHd2WFNpNXd1OUlOUTctZlc4elZCNmFPZ0lYQy1udHFEbkxtdm1YdmdwTmNEUVFDTQ?oc=5",
+          "pubDate": "2022-07-01T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "1cb438a931",
+      "hotspot": "olgerweg",
+      "type": "nieuws",
+      "titel": "Nieuwe portalen rond viaduct Olgerweg moeten voorkomen dat busjes zich klemrijden",
+      "start": "2022-07-15T07:00:00.000Z",
+      "eind": null,
+      "bronnen": [
+        {
+          "titel": "Nieuwe portalen rond viaduct Olgerweg moeten voorkomen dat busjes zich klemrijden",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHg5TDYxdG9jVU5LWjVHOUNNU1NwczcybVhkakpfZ0VvbzNHclh6RkRNRlJGWFdsd1FrNjE0QTQydXBBcUFkbnkwZ2FvQWE1OGpoSFZ0NWlHYmJLdkFPTWdmRGgzRHlZcGFTX2puYmVyejF4Z194aTRESWdwSEZrVDdXLXp2R3BmU1lvZ2ZzdmlfeGdudmp5V0ZQMWJoVTNKNFh5dGxUMW5sc3M2dFBHNA?oc=5",
+          "pubDate": "2022-07-15T07:00:00.000Z"
+        },
+        {
+          "titel": "Gemeente plaatst hoogteportaal bij (laag) viaduct in Groningen. Komt nu nooit meer een busje klem te zitten?",
+          "medium": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbExZRXA5azhIbDV2cHBZZk11QmsyMjZvaE4zVTg1NHQwU3dTQ1JnM1VMdGpWbklvUEZST1BjVW5jVU5iNk5xV21PaHI3dW1ZMHM1WGozMGRHLTZhcWIyazRud0hQRVBudUtEbnFyOS1IZUpHRU9vamFFRG5fZHo3VURtdlBUaEJoX3lDQWxxWEZwMnF1M2RyWWl1YklKbE9DVndhNWxBaldxeXUzS1pCakJkX2Z6dGJqVERmRXB1V1dwS3JGWWdiVzR5M0txVThldjNHb3dfWGhPLXI5V1lMSVBpZTJDUQ?oc=5",
+          "pubDate": "2022-07-15T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "e007861a01",
+      "hotspot": "emmaviaduct",
+      "type": "incident",
+      "titel": "Buschauffeur dubbeldekker rijdt zich klem onder Emmaviaduct",
+      "start": "2022-08-27T07:00:00.000Z",
+      "eind": "2022-08-27T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Buschauffeur dubbeldekker rijdt zich klem onder Emmaviaduct",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmFpc3ZTSVVOajVPdmN3OTdWQkhCWXFWQnoxeW0wODlqamhKNjd0SjBCUGdZQTg0MnFDWjZSdk9DTklxNl9tUUxjclZGTVFMaVczVVFXSU9DUHZZOHZfVGhMVWhYTldWSG9LM1VxYnRfM0ZyODBURE8zMmtHWldPWWtCUXd2Zm00ZExWVWl2Tm1Pa2M?oc=5",
+          "pubDate": "2022-08-27T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "c62ccf87cb",
+      "hotspot": "pop-dijkemaweg",
+      "type": "incident",
+      "titel": "Viaduct over Pop Dijkemaweg claimt zoveelste slachtoffer: bus van Mamamini aan diggelen",
+      "start": "2024-03-22T07:00:00.000Z",
+      "eind": "2024-03-22T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Viaduct over Pop Dijkemaweg claimt zoveelste slachtoffer: bus van Mamamini aan diggelen",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnM3S25GUEdmWUotTlBJS0lNVVZWMEpkcmxLYTNlMHNmRHF4XzNmWEtOMHd2VXVkNnJhOUFsQlU3OUp3RjJ6RUxhWktFMU90WGE0SGd1VFRGYnc2UE5xMXduRVUzZTc1UmJ5QkZRVDRRTDBuNlhPVmtiQzBETEpqZjNOSThBRWN6SG9nRWFOYm83TVg4Z1FuVDZwdDRuajU1R1RXU1FCZmhKb2hOTVBUWDZMY1g1MGM?oc=5",
+          "pubDate": "2024-03-22T07:00:00.000Z"
+        },
+        {
+          "titel": "En weer één: bestelbus rijdt zich klemvast onder viaduct in Groningen",
+          "medium": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeXFVbDFOazJ3ZEZ4SW93Y05tdmM3ZThQYno4Z1AxZ3hFdmxwMDZZdElyNnMxbmloREY3WmZGbGZSbjg5T0pPaDFxaEZqYzczWjRsTDZPbmkwMEZMeUxQSEc2OUFSZzM4VGtLbFdVREdjblM1M0stby1JZVMxeHQwVGdqTkkyS2hQNDVqNUpTMDcxWkhxRy0zSm1tZm9mZUM0Qktn?oc=5",
+          "pubDate": "2024-03-22T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "4dbf4ecc35",
+      "hotspot": "pop-dijkemaweg",
+      "type": "incident",
+      "titel": "Viaduct over Pop Dijkemaweg claimt nieuw slachtoffer: bestelbus van Albert Heijn zit klem",
+      "start": "2024-07-01T07:00:00.000Z",
+      "eind": "2024-07-01T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Viaduct over Pop Dijkemaweg claimt nieuw slachtoffer: bestelbus van Albert Heijn zit klem",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWERPNVFGUGllSmFjT0VrWGNQMHVpZlZIM1dHWWlZNmRzZF9TazhxRUNObE1odXBsSm5mWUxNal9DNEZsR3o5OFlrVVU3WmlnSEJORFNEclRSV2pLWTNnakxjRVFnYTdvd1RuWDBXMXc0OWh1UEo0ejJXd1g3djVzTi1Lc2dWbEdEZTlka1JpUVZab3JYSUZzclR1MmpOMzFyN0l2Q2w1NHROYmZkdElsZE5Kc0hEUlY1QVE?oc=5",
+          "pubDate": "2024-07-01T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "d6361ce339",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Busje klem onder een viaduct in Grunn, hoofdstuk 920488. Je pakketje komt iets later",
+      "start": "2024-12-03T08:00:00.000Z",
+      "eind": "2024-12-03T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Busje klem onder een viaduct in Grunn, hoofdstuk 920488. Je pakketje komt iets later",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWTRYUlZCWlo4U080Q0J1TjZUSzBtUkNVMWRIUDYzWWJPYm52YV9UbEFxdV9vQVRYUldVT2ExT1BxSnk4UVo3UE1BZ3lMeDRxQlVIVDhVOGR0ZU4xUE5JNWNCNzZzaGlyUW5zWmFHVVNCdkJtNjh2aGZVVHUta1JoYkpkbG9oX3NYT3h1Mk1VRWhFZTdXS2MtQWxJWHNKOHhDRFoxRFE5SGhTVnpKZGRGdGpvT1BNeGU5OGtWRk00SXBhQWNua0E?oc=5",
+          "pubDate": "2024-12-03T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "a72ca1ccc2",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Dikke vrachtwagen klem onder waarschuwingsbalk vlak voor viaduct. 'T is weer eens wat anders",
+      "start": "2025-01-30T08:00:00.000Z",
+      "eind": "2025-01-30T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Dikke vrachtwagen klem onder waarschuwingsbalk vlak voor viaduct. 'T is weer eens wat anders",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLW4tVi1wRldIRTRWTTlBXy1NRmxGa3JHWVY2SkhqUld1SXZBTDBLUFdsUkJnUFRqRkY3S0hWMUstSjNNNVdFVHpkWDVVWi1hLWFNa1Z5SHhvcXlmWlNpMHpleGVPSkJkeVVhUEJmS1dIT3BLSVpuN0JpR2JseG96OHB6c1N2YTlxLWdxa3pldG5pSmEwZm5WaEJaRTA4MmpULUlXQ2VMQW5KRDRHdDZfMFdMcFVzcmQ4ODY3VU1yd29iRUt6XzhiMDBWU2dwM0JK?oc=5",
+          "pubDate": "2025-01-30T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "f434cd6763",
+      "hotspot": "oosterpark",
+      "type": "incident",
+      "titel": "Jammer Jumbo: boodschappen vast onder tunneltje in Oooosterpààààrk",
+      "start": "2025-03-01T08:00:00.000Z",
+      "eind": "2025-03-01T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Jammer Jumbo: boodschappen vast onder tunneltje in Oooosterpààààrk",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUFpbncyYjRUMXJ2T2xYVlE4ZS02cHFnWFlpVXAwWlpWUzNmUnQ5NDlsLU9fbVBCTFR0RWNkUHB5ZVhZSnBLdUQ3RkpuYU5YWUV5RGJOWjdWQnJ1VWt4aFZmclZWVldEV05sRmFlaEJtdnZrU1pSTzZlWS1mZkRKQzhqaWx2REFXSkk5ZjdXSERrWGY1eGJFMGlPZWIwQ1N4T1JEbFV2N2VxR1lpN0Vz?oc=5",
+          "pubDate": "2025-03-01T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "5036240373",
+      "hotspot": "wielerbaan",
+      "type": "incident",
+      "titel": "Er zit weer eens een busje klem onder een brug. Dit keer onder de loopbrug op de wielerbaan",
+      "start": "2025-03-26T07:00:00.000Z",
+      "eind": "2025-03-26T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Er zit weer eens een busje klem onder een brug. Dit keer onder de loopbrug op de wielerbaan",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnBWT3FCeUhNSm5saDVoNW9sZDJPOEE0eWthVWRGbTZuR0tfcjVwQ005dWJNbVJRd01vZ19UUlhRbmFQUGFfNnlFSm5kWFhtSFh5ZHlhQy1ILVN0R0MtbW9SV005RXc4SzdKaW40WGhkOER6ZzREdG5vOHpJY0s4OVQ0SndMX01qQmQxZXRtY1k5ZWp4TzVhNUlCZUYybXY5MmRMbGZCM0ctenExMHdwbzBzTUN3TFh5WU8yLUExbEkwRmxZbmVuMC1lWVN5cnB4?oc=5",
+          "pubDate": "2025-03-26T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "ccfb2b3c18",
+      "hotspot": "olgerweg",
+      "type": "bijna",
+      "titel": "Brekend: chauffeur van grote bestelbus ziet laag viaduct boven Olgerweg net op tijd",
+      "start": "2025-05-12T07:00:00.000Z",
+      "eind": null,
+      "bronnen": [
+        {
+          "titel": "Brekend: chauffeur van grote bestelbus ziet laag viaduct boven Olgerweg net op tijd",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZktRbGRVNDhjZHVpLWNYM25mOVBqOFJveHE3NTFJU2dMTmhNX3Q0Y0ctQ2xhUkdpSXlvNFF1MFdNV3B5X2NSMGJYQ09ESmh4UnJZdS1pN3BsRzdkTXF1MDB6amk1U0x3WWQ3QlphcS1KSml5a2JKZzdkRWNiU01mRm0wZGh2cERodjM5TVE3NHp0bDF5VmpXTmxOSUZVaVF0QWNWUEkzN2tUM3QydENrVkVoelNnNUhxenlDRldJM1djZjhaMnk0Wm9hS0p0dw?oc=5",
+          "pubDate": "2025-05-12T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "ba2bd3deb3",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Eindelijk weer ouderwets en gewoon een busje klem onder een viaduct in Grunn. En goed ook",
+      "start": "2025-07-18T07:00:00.000Z",
+      "eind": "2025-07-18T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Eindelijk weer ouderwets en gewoon een busje klem onder een viaduct in Grunn. En goed ook",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDlwM3hnWE03N2dtSVA2RkpReURBN3AzbzBOT1RvOGtCXy1KcFpfd2Uyd05DUkMzVURrb0tTNW9DWnFSemU4bFdobWl1bUFWSjJmRXFzY0I4TExNNDdRT2tKdTJpdzI2VzBsT215WGhGV3hmSWRab3ZHZ3lVbEVNZDJvcjlPZGdSLUpUZGZ5aVB6MDZFeUlPUG9aSWNQYjJKRXZCZEZuQjJOZ1lmc0lHcHBiNzMwUTFqVExZMF9CVnVxQXZRM3BSYVVZVUUwdw?oc=5",
+          "pubDate": "2025-07-18T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "61c16c4c94",
+      "hotspot": "oosterhavenbrug",
+      "type": "incident",
+      "titel": "Chauffeur rijdt verhuisbusje klem onder Oosterhavenbrug",
+      "start": "2025-08-17T07:00:00.000Z",
+      "eind": "2025-08-17T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Chauffeur rijdt verhuisbusje klem onder Oosterhavenbrug",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcTJyTnEzWFA3aXV1Q3pkYU9pSHpQUk5JZGZGeVE5N3NGbVRXb05XVlBDcXV5WThTelU1ZEdPVlpxRUd6U0FEaEczbmdRREFqemdHUXZNQmRDU2xrYjM3WXBFWmkwdVRFczVsY3JYdFFnSnREeEZsUVQtb1l6MUY3TUliVVdUMmR2UE4zRFh3?oc=5",
+          "pubDate": "2025-08-17T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "d71bdad5ce",
+      "hotspot": "overig",
+      "type": "nieuws",
+      "titel": "Iemand die een dik feest wil organiseren om te vieren dat het 100e busje vastzit onder viaduct?",
+      "start": "2025-09-05T07:00:00.000Z",
+      "eind": null,
+      "bronnen": [
+        {
+          "titel": "Iemand die een dik feest wil organiseren om te vieren dat het 100e busje vastzit onder viaduct?",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmRla1dTUzhHRkhXYnV0U0N1aGk0MVpCZFZsUWY5RFBwWi1Xc1pYMkItcE0xNkRyRS1BUjZvYnVBVGZiTWV0X2F2LUEtVEF5VVh5WWZEajdrM3F0U3J3RDlvaVBpQ0htY3ZpWjJ3T25rVkgwbmloek11cm8waWJ1bHhIMEtSNXprTDV0aTBtVmVqMnRTdEVrTFVDYkRBR0FJLUpnQXc5cTQ3SzRLRUhPTUxVV3B0eWJ6cXB6b19hS2tvV1l6X1lrY0RVeFdWelAzNHo1b3h1eTdBQjVf?oc=5",
+          "pubDate": "2025-09-05T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "1f11eecc7a",
+      "hotspot": "emmaviaduct",
+      "type": "incident",
+      "titel": "Baas boven baas: Qliner ramt Emmaviaduct en steekt alle busjes onder viaducten naar de kroon",
+      "start": "2025-09-30T07:00:00.000Z",
+      "eind": "2025-09-30T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Baas boven baas: Qliner ramt Emmaviaduct en steekt alle busjes onder viaducten naar de kroon",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVm12bDhfR3dwU3JnSlVVcXlTaTRTYmdJb1FWQWFKWTlxSnBtMk1DWmhLb0NvUVh2aGt0aEt3aEM5NzlkcEZaWE9aV29ZVF9iUDBjaV9WMldVNjRjX2FHc2JSM0JxNGZuZjI4UlRLbG96TzJLbVVnWm1XN3ZQNmhqR2RueXdzTmx5QTJXcHJjam9ZZ1RyU1huVXFWWGZNNTE3bE9DM0RnZGZtYk82T1hNWk5VOWdjekJzOWpwZlVYWW41VmFjZGJ3WUZaUGhVR0Nh?oc=5",
+          "pubDate": "2025-09-30T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "a5278f112b",
+      "hotspot": "a7",
+      "type": "bijna",
+      "titel": "Busje net niet vast onder viaduct A7. Maar wel klem onder de waarschuwingsbalk",
+      "start": "2026-06-12T07:00:00.000Z",
+      "eind": null,
+      "bronnen": [
+        {
+          "titel": "Busje net niet vast onder viaduct A7. Maar wel klem onder de waarschuwingsbalk",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVJrYURYWTNwUzhkT1loR0VlcEVQUWJYSnN2S0Z1XzRtNHM1R0tEM2VqMUNhNGFPTlQ2WDI0Q2JjaGo0b3JPZTFHOHFCdjlCaFBNT2c2WnJGQllTOW1nODVPanE5bHlOM1BEQlE3Z3QyQXF5UlgwSEhVdEN2SjMzY3hQTFVUUzRWclcyeUVvOXFOekpKUGR3MDJTMkVXRUtuNExDV1RaQXp1a1ZwcGdJTzU0N1BvU2wwaTVyNHNRaw?oc=5",
+          "pubDate": "2026-06-12T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "c8749bea79",
+      "hotspot": "pop-dijkemaweg",
+      "type": "incident",
+      "titel": "Twee keer raak bij viaduct Pop Dijkemaweg op één dag: busje klem en balk kapot geramd",
+      "start": "2026-10-11T07:00:00.000Z",
+      "eind": "2026-10-11T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Twee keer raak bij viaduct Pop Dijkemaweg op één dag: busje klem en balk kapot geramd",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWZVbjdqWkp2bGpLWmpxWXZILXFscXVqSHBkSGtBZzlvdldBQWVfNE8yTWxKN3U0NEZ3Q1dveFJ3RmIwTGI4bmFOUW9aVHZfYm5SdFdyeHhpRGNYQTkwV3Q3QWZqV3FTQ1NpS0tjR0FFUHRrTWM5b2xieFZYVzFoMWFVSjhNVjhmQUxsU3J1XzM0X3VzSkVZQUZoeEl6UUdNVHFUWE9mWUR3a2NBdWx4UUxua1pJbHRiZDNTamZuSnBSZi1uTzMtbA?oc=5",
+          "pubDate": "2026-10-11T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "61b98169f6",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Another day, another busje klem. Dit keer onder een overkapping en goed ook",
+      "start": "2026-10-26T10:32:30.000Z",
+      "eind": "2026-10-26T14:32:30.000Z",
+      "bronnen": [
+        {
+          "titel": "Another day, another busje klem. Dit keer onder een overkapping en goed ook",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUJOZjRORW13TkMwWEJuYmpXYTZyQnZ3QU1Gd3NuTkI2MGVzdFlVaklwZVhueGY3dkg0bngtOW9SYjlndjFKdkl1ZzJHdTJrdjEzblR2cDRyOGw4YTZyLU5GbjJJY1RtY3BEcGFoR0RUR3RFUnltN2lJd2pIVmRjSWRQc0Y5WnMtc2E5dDYxOF80d1J0LWN5M0hJcHh0WkxVV0R3YTFmWWZaY1BtNUUtTHFMeVRwQW02UFhz?oc=5",
+          "pubDate": "2026-10-26T10:32:30.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T10:18:48.479Z"
+    }
+  ]
+}

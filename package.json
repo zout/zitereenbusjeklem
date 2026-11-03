@@ -1,0 +1,11 @@
+{
+  "name": "zitereenbusjeklem",
+  "private": true,
+  "type": "module",
+  "description": "Het live busjesalarm van Grunn",
+  "scripts": {
+    "scrape": "node scraper/scrape.mjs",
+    "dev": "python3 -m http.server 8080"
+  },
+  "engines": { "node": ">=18" }
+}
