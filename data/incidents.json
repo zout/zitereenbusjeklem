@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-03T10:24:56.117Z",
+  "gegenereerd": "2026-11-03T13:07:03.840Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -58,6 +58,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "a5f08f7024",
+      "hotspot": "emmaviaduct",
+      "type": "incident",
+      "titel": "Lijnbus klem onder Emmaviaduct in Stad",
+      "start": "2018-01-30T08:00:00.000Z",
+      "eind": "2018-01-30T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Lijnbus klem onder Emmaviaduct in Stad",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVBvWUcyM1JnOURJc0k1Z3ptdG1zbmNJeGFmaTBJWEFCQi1tMVBuQkxlNEpKc1VidVUyQmg3OWE0UzRQb1NYVmdqMWZLZFBESVJLZjRBbFBlQUFUTnlNOXNGUmNkeEllWGNNVjlvdUpSQXdhbEFXQ0VSUXdXTzd6X1JR?oc=5",
+          "pubDate": "2018-01-30T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-03T13:07:03.840Z"
     },
     {
       "id": "6df98e28ad",
