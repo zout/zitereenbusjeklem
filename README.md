@@ -28,6 +28,8 @@ Het live busjesalarm van Grunn. Zit er nou n busje klem onder een viaduct in Sta
 
 ## Lokaal draaien
 
+De repo heeft een `.nvmrc`, dus `nvm use` zet je op Node 26.
+
 ```bash
 npm run scrape
 ```
