@@ -8,7 +8,7 @@ Het live busjesalarm van Grunn. Zit er nou n busje klem onder een viaduct in Sta
 |---|---|
 | `index.html`, `css/`, `js/` | De site (statisch, geen build) |
 | `badge.html` | Insluitbare live-badge voor andere sites |
-| `scraper/scrape.mjs` | De busjesradar (Node 18+, geen dependencies) |
+| `scraper/scrape.mjs` | De busjesradar (Node 26+, geen dependencies) |
 | `data/hotspots.json` | De doorgangen, met coördinaten en zoekpatroon. **Hier pas je hotspots aan.** |
 | `data/incidents.json` | Alle incidenten (wordt door de scraper bijgewerkt, handmatige correcties blijven staan) |
 | `data/status.json` | Is er *nu* een busje klem? |

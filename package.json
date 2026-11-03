@@ -7,5 +7,5 @@
     "scrape": "node scraper/scrape.mjs",
     "dev": "python3 -m http.server 8080"
   },
-  "engines": { "node": ">=18" }
+  "engines": { "node": ">=26" }
 }

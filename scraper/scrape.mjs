@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Busjesradar: haalt Groningse nieuwsbronnen op, zoekt naar busjes die klem
 // zitten onder viaducten/bruggen/tunneltjes en schrijft data/*.json + feed.xml.
-// Geen dependencies, draait op Node 18+.
+// Geen dependencies, draait op Node 26+.
 
 import { readFile, writeFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
