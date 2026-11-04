@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-04T09:26:39.225Z",
+  "gegenereerd": "2026-11-04T15:21:28.558Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -12,7 +12,7 @@
     {
       "naam": "RTV Noord",
       "status": "ok",
-      "items": 52
+      "items": 53
     },
     {
       "naam": "OOG Groningen",
@@ -52,7 +52,7 @@
     {
       "naam": "Google Nieuws: \"busje klem Sikkom\"",
       "status": "ok",
-      "items": 24
+      "items": 13
     },
     {
       "naam": "Google Nieuws: \"busje klem Grunn\"",
@@ -77,7 +77,7 @@
     {
       "naam": "Google Nieuws: \"klem onder brug Groningen\"",
       "status": "ok",
-      "items": 46
+      "items": 10
     },
     {
       "naam": "Google Nieuws: \"klem tunnel Groningen bestelbus\"",
