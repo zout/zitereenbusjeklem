@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-04T15:21:28.558Z",
+  "gegenereerd": "2026-11-04T21:28:32.029Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -183,6 +183,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "a31f2abdef",
+      "hotspot": "olgerweg",
+      "type": "incident",
+      "titel": "Bestuurder rijdt bestelwagen klem onder viaduct Olgerweg, forse schade",
+      "start": "2021-10-16T07:00:00.000Z",
+      "eind": "2021-10-16T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bestuurder rijdt bestelwagen klem onder viaduct Olgerweg, forse schade",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNTdTc0wyZkFYWkFCTURJRmdqTDBTWnRCMDB1bEhlX2R3U3h1c0lzSTRVSU9iUUJTNTFtc2RYQS0zVE1GcmYzZnV5ak40NHNHbmtzajM4cnpGRy1TMTYyMmN4SG4xZkNodzdXTlozdi1zYV9LUTNRWmVGbnJEazZNZGZJNDQ2bGd6OFdpR3FuM2JXc3QzZndoYlZ1UHVDaGFk?oc=5",
+          "pubDate": "2021-10-16T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-04T21:28:32.029Z"
     },
     {
       "id": "0f26bdcd7b",
