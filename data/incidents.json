@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-04T21:28:32.029Z",
+  "gegenereerd": "2026-11-05T01:44:45.644Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -92,6 +92,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "187ecdf716",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Vrachtwagen rijdt zich klem onder viaduct",
+      "start": "2019-06-26T07:00:00.000Z",
+      "eind": "2019-06-26T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Vrachtwagen rijdt zich klem onder viaduct",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWHFMWjgzLTdBSVROWTVvR2dyX1lFTGJObk9POTV6Vy1IYmdCYVp6Y1lCSEJoTVpoTzVDWWRSVnd6SWNOM1lCcDdKeGJhWDZQU096cXJRb2R0Y21pa1hhM1E5VEc0Qk14T3JTMXVGbld0NThsa3ltb1hEZ0ROcnNNTlJyRTZteUFXZXNpX3R3bzJsUFE?oc=5",
+          "pubDate": "2019-06-26T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-05T01:44:45.644Z"
     },
     {
       "id": "c69cef5a7d",
