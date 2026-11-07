@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-07T19:40:04.425Z",
+  "gegenereerd": "2026-11-07T23:06:01.668Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -52,7 +52,7 @@
     {
       "naam": "Google Nieuws: \"busje klem Sikkom\"",
       "status": "ok",
-      "items": 13
+      "items": 14
     },
     {
       "naam": "Google Nieuws: \"busje klem Grunn\"",
@@ -77,7 +77,7 @@
     {
       "naam": "Google Nieuws: \"klem onder brug Groningen\"",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "naam": "Google Nieuws: \"klem tunnel Groningen bestelbus\"",
