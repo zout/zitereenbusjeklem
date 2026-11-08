@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-08T09:33:02.308Z",
+  "gegenereerd": "2026-11-08T16:23:19.242Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -12,7 +12,7 @@
     {
       "naam": "RTV Noord",
       "status": "ok",
-      "items": 52
+      "items": 53
     },
     {
       "naam": "OOG Groningen",
@@ -21,68 +21,68 @@
     },
     {
       "naam": "Google Nieuws: \"busje klem viaduct Groningen\"",
-      "status": "ok",
-      "items": 10
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"busje vast viaduct Groningen\"",
-      "status": "ok",
-      "items": 10
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"bestelbus klem viaduct Groningen\"",
-      "status": "ok",
-      "items": 13
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"bestelwagen klem viaduct Groningen\"",
-      "status": "ok",
-      "items": 12
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"vrachtwagen klem viaduct Groningen\"",
-      "status": "ok",
-      "items": 10
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"klem onder viaduct Sikkom\"",
-      "status": "ok",
-      "items": 11
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"busje klem Sikkom\"",
-      "status": "ok",
-      "items": 14
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"busje klem Grunn\"",
-      "status": "ok",
-      "items": 10
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"Pop Dijkemaweg viaduct\"",
-      "status": "ok",
-      "items": 9
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"Olgerweg viaduct\"",
-      "status": "ok",
-      "items": 10
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"Emmaviaduct klem\"",
-      "status": "ok",
-      "items": 7
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"klem onder brug Groningen\"",
-      "status": "ok",
-      "items": 10
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"klem tunnel Groningen bestelbus\"",
-      "status": "ok",
-      "items": 10
+      "status": "HTTP 503",
+      "items": 0
     }
   ]
 }
