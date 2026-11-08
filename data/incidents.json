@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-08T16:23:19.242Z",
+  "gegenereerd": "2026-11-08T20:43:03.427Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -333,13 +333,19 @@
       "firstSeen": "2026-11-03T10:18:48.479Z"
     },
     {
-      "id": "d6361ce339",
-      "hotspot": "overig",
+      "id": "213e0d4adf",
+      "hotspot": "oosterhavenbrug",
       "type": "incident",
-      "titel": "Busje klem onder een viaduct in Grunn, hoofdstuk 920488. Je pakketje komt iets later",
+      "titel": "Chauffeur rijdt pakketbus klem onder Oosterhavenbrug",
       "start": "2024-12-03T08:00:00.000Z",
       "eind": "2024-12-03T12:00:00.000Z",
       "bronnen": [
+        {
+          "titel": "Chauffeur rijdt pakketbus klem onder Oosterhavenbrug",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX09nNllZWmxKUl9xd0NZSUtYMlI2MWJHZVZrWEdKbUxzYnk4azhJcTdrWlF2Nl9lZndhT0QyWk14a2NpZ2Q4d3ExVndNNlpLTjl3X2EwcjUwYks1OV9zdVkxSGcwTFFXOGowNU5xMGlCQU5yN0FMemV2b2lJelozMkZWc3VEN3dmQWc?oc=5",
+          "pubDate": "2024-12-03T08:00:00.000Z"
+        },
         {
           "titel": "Busje klem onder een viaduct in Grunn, hoofdstuk 920488. Je pakketje komt iets later",
           "medium": "Sikkom",
@@ -347,7 +353,7 @@
           "pubDate": "2024-12-03T08:00:00.000Z"
         }
       ],
-      "firstSeen": "2026-11-03T10:18:48.479Z"
+      "firstSeen": "2026-11-08T20:43:03.427Z"
     },
     {
       "id": "a72ca1ccc2",
