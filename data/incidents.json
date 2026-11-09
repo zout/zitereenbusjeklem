@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-09T06:41:22.712Z",
+  "gegenereerd": "2026-11-09T16:54:50.263Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -41,6 +41,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "d3a756460e",
+      "hotspot": "emmaviaduct",
+      "type": "incident",
+      "titel": "Bus rijdt zich klem onder Emmaviaduct",
+      "start": "2016-05-23T07:00:00.000Z",
+      "eind": "2016-05-23T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bus rijdt zich klem onder Emmaviaduct",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfZXVKZXc3NjczN0UzS2RCOVBGcGc0YVRlTnVfcngxeHVCUHlEbjRROHg1NGhoT3FsQzVjamJ1cDNYS2c5dlFQbTNsU3BhQnY2bWxHaFcwdU1ndjR6NTFZUDd2NjhCekdjM0VFR0h0V3VWWmxqR2c?oc=5",
+          "pubDate": "2016-05-23T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-09T16:54:50.263Z"
     },
     {
       "id": "89dd7ebd62",
