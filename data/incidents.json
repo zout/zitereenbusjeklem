@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-09T00:08:07.263Z",
+  "gegenereerd": "2026-11-09T06:41:22.712Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -291,6 +291,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "ca4534ed64",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Deze fout wordt vaker gemaakt: bestuurder bestelbus klem onder laag viaduct in Groningen",
+      "start": "2022-11-26T08:00:00.000Z",
+      "eind": "2022-11-26T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Deze fout wordt vaker gemaakt: bestuurder bestelbus klem onder laag viaduct in Groningen",
+          "medium": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMnVtV0lGYjFqMFg5RkJtT0FwMFRvM1QzYzJSTE80QVp6SE4tU00yZFk2LW9mUE9kNEJkZFJ5U1hycjBEeXk0VWQ4UENHa2VNSGJsUkI1Q0p2MnJPQ2g0Q1pua3dwLVZqVUtDNUpuOTZIWGZEVHZBQlBhTUZYS2VDSWJWeFV1TGI1XzdYUU4zMndwSGVCM1A0ZE1jVFlpUEUxTEQwVDNkYWkzM0swalVwNlN5Vm9IcFNoVDV2eGZRYVdVaEJWVGgxNEVlRHZHYVRqVkVkQw?oc=5",
+          "pubDate": "2022-11-26T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-09T06:41:22.712Z"
     },
     {
       "id": "c62ccf87cb",
