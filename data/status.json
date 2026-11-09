@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-08T20:43:03.427Z",
+  "gegenereerd": "2026-11-09T00:08:07.263Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -27,7 +27,7 @@
     {
       "naam": "Google Nieuws: \"busje vast viaduct Groningen\"",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "naam": "Google Nieuws: \"bestelbus klem viaduct Groningen\"",
@@ -37,7 +37,7 @@
     {
       "naam": "Google Nieuws: \"bestelwagen klem viaduct Groningen\"",
       "status": "ok",
-      "items": 12
+      "items": 11
     },
     {
       "naam": "Google Nieuws: \"vrachtwagen klem viaduct Groningen\"",
@@ -62,7 +62,7 @@
     {
       "naam": "Google Nieuws: \"Pop Dijkemaweg viaduct\"",
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     {
       "naam": "Google Nieuws: \"Olgerweg viaduct\"",
