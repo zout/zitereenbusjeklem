@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-10T21:54:37.511Z",
+  "gegenereerd": "2026-11-11T01:48:17.243Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -32,12 +32,12 @@
     {
       "naam": "Google Nieuws: \"bestelbus klem viaduct Groningen\"",
       "status": "ok",
-      "items": 12
+      "items": 13
     },
     {
       "naam": "Google Nieuws: \"bestelwagen klem viaduct Groningen\"",
       "status": "ok",
-      "items": 11
+      "items": 12
     },
     {
       "naam": "Google Nieuws: \"vrachtwagen klem viaduct Groningen\"",
@@ -51,8 +51,8 @@
     },
     {
       "naam": "Google Nieuws: \"busje klem Sikkom\"",
-      "status": "ok",
-      "items": 14
+      "status": "HTTP 503",
+      "items": 0
     },
     {
       "naam": "Google Nieuws: \"busje klem Grunn\"",
