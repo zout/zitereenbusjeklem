@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-13T01:31:37.139Z",
+  "gegenereerd": "2026-11-13T08:48:25.761Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -42,7 +42,7 @@
     {
       "naam": "Google Nieuws: \"vrachtwagen klem viaduct Groningen\"",
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     {
       "naam": "Google Nieuws: \"klem onder viaduct Sikkom\"",
@@ -52,7 +52,7 @@
     {
       "naam": "Google Nieuws: \"busje klem Sikkom\"",
       "status": "ok",
-      "items": 14
+      "items": 15
     },
     {
       "naam": "Google Nieuws: \"busje klem Grunn\"",
@@ -77,7 +77,7 @@
     {
       "naam": "Google Nieuws: \"klem onder brug Groningen\"",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "naam": "Google Nieuws: \"klem tunnel Groningen bestelbus\"",
