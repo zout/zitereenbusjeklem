@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-16T06:48:39.250Z",
+  "gegenereerd": "2026-11-16T16:54:11.410Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -12,7 +12,7 @@
     {
       "naam": "RTV Noord",
       "status": "ok",
-      "items": 55
+      "items": 54
     },
     {
       "naam": "OOG Groningen",
@@ -72,12 +72,12 @@
     {
       "naam": "Google Nieuws: \"Emmaviaduct klem\"",
       "status": "ok",
-      "items": 6
+      "items": 7
     },
     {
       "naam": "Google Nieuws: \"klem onder brug Groningen\"",
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     {
       "naam": "Google Nieuws: \"klem tunnel Groningen bestelbus\"",
