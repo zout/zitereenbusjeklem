@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-22T09:50:03.025Z",
+  "gegenereerd": "2026-11-22T17:42:56.132Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -530,6 +530,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "bca3cc9588",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Fiets ‘vanaf een viaduct’ op Ring Oost gegooid: ‘Kwam vast te zitten onder mijn vrachtwagen’",
+      "start": "2025-10-25T07:00:00.000Z",
+      "eind": "2025-10-25T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Fiets ‘vanaf een viaduct’ op Ring Oost gegooid: ‘Kwam vast te zitten onder mijn vrachtwagen’",
+          "medium": "Sikkom",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2dNTjRDQ09oaFBuZVQ3dzdaS0djbHU4TUxIQXRESUJzZ2t1T0czWlZTQWtBTmdGb1dQTVZVOVJ5VE9xUl83WW80cHZXT1RFMkxBRXNBbzRWbTRTN211U2dZOHZaNFVFV01XT0hzYU9FVExTMUY2d2tMSS1EeUdTMDg2NXdiTmJxUUxEcmFmMHNFMUNFeXRGZHZaVmplWEY3QUwxb0dmVmJIeXdXcEVHcjhVYUo4MHR4R0VGVW9xR2xuSUp1ckRLekF5cw?oc=5",
+          "pubDate": "2025-10-25T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-22T17:42:56.132Z"
     },
     {
       "id": "a5278f112b",
