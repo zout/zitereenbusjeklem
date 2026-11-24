@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-23T13:42:15.507Z",
+  "gegenereerd": "2026-11-24T01:15:40.725Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -143,6 +143,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "cdb2e3eb39",
+      "hotspot": "overig",
+      "type": "incident",
+      "titel": "Bus vast onder slagboom bij brug in Groningen",
+      "start": "2020-05-30T07:00:00.000Z",
+      "eind": "2020-05-30T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Bus vast onder slagboom bij brug in Groningen",
+          "medium": "RTV Noord",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXBXVVh6SHM1QzZrb1NSbnB2NXNsNFk4UlNOSmprU0V3U0pGbjQ0Q2owZXNkV0ZDejBJUHpIdUFmODRXWkxYQzdHVXVraVM5UzVwbDZQZTY3SHBMZWFtWmR4aWRxbHRFTmlzaDVja0lSMmNrTnRDQjJBdklEekg3UndoMFh5WXNQalMw?oc=5",
+          "pubDate": "2020-05-30T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-24T01:15:40.725Z"
     },
     {
       "id": "4c03f4c95b",
