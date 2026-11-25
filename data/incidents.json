@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-24T21:33:30.821Z",
+  "gegenereerd": "2026-11-25T04:37:28.665Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -331,6 +331,23 @@
         }
       ],
       "firstSeen": "2026-11-03T10:18:48.479Z"
+    },
+    {
+      "id": "1c6dc58996",
+      "hotspot": "pop-dijkemaweg",
+      "type": "incident",
+      "titel": "Het is weer raak: vrachtwagen klem onder viaduct Pop Dijkemaweg in Groningen",
+      "start": "2022-11-19T08:00:00.000Z",
+      "eind": "2022-11-19T12:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Het is weer raak: vrachtwagen klem onder viaduct Pop Dijkemaweg in Groningen",
+          "medium": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXhBZlBiZXdBRC03WVZ3RTVDamV6M2RDeG9QQkpzUmVVLVRYazJaZHRudG1mcEhjY0s2TVlpbmMzSGZQRkVxR056UXEwdGVKdURfWTJMUy11SFJMYlh6ZGpMQVJ1YUVQdWFSNnNKaDM5RDVtWENnWnNCZUJicDNsMzdzdkxCTjlyaEFFaDlkT19mVHhvcTNKYUlHdV82cjN3d1RGbUNrTW1XaHVJV1B4ekJvN2lhNGp5LUhmQ3FPeHNRbHh4LV9DMVlmcw?oc=5",
+          "pubDate": "2022-11-19T08:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-25T04:37:28.665Z"
     },
     {
       "id": "ca4534ed64",
