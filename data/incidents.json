@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-26T15:42:05.854Z",
+  "gegenereerd": "2026-11-27T00:04:05.610Z",
   "downtimeUren": 4,
   "incidents": [
     {
@@ -365,6 +365,23 @@
         }
       ],
       "firstSeen": "2026-11-09T06:41:22.712Z"
+    },
+    {
+      "id": "48c4aa4864",
+      "hotspot": "olgerweg",
+      "type": "incident",
+      "titel": "Viaduct Olgerweg maakt weer een slachtoffer: zoveelste bedrijfsbus rijdt zich klem",
+      "start": "2023-06-15T07:00:00.000Z",
+      "eind": "2023-06-15T11:00:00.000Z",
+      "bronnen": [
+        {
+          "titel": "Viaduct Olgerweg maakt weer een slachtoffer: zoveelste bedrijfsbus rijdt zich klem",
+          "medium": "OOG Groningen",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHNQNmtUalRIRXVTa2tJUWVMTFAwNWdGS1VjcU5sd25KRnJtODd2dzZUcm56QXRPSXVyVzltV3hGOG5QQTNJS2liTFhRMFpYVzhRZ3lCRjZFemhQM0tkaXJrTXBKTG9QYTRLZ0NKN045SktrUnpPV0ZlX0dBUmpYQndUaGF6TFQyVWg5cUF2eDA3a251MW80TVFqeFdSNnRFd3YtcENCU0VFWHZiWTZHMg?oc=5",
+          "pubDate": "2023-06-15T07:00:00.000Z"
+        }
+      ],
+      "firstSeen": "2026-11-27T00:04:05.610Z"
     },
     {
       "id": "c62ccf87cb",
