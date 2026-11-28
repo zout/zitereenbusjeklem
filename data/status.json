@@ -1,5 +1,5 @@
 {
-  "gegenereerd": "2026-11-28T01:38:35.366Z",
+  "gegenereerd": "2026-11-28T09:28:40.578Z",
   "downtimeUren": 4,
   "klem": false,
   "live": [],
@@ -32,7 +32,7 @@
     {
       "naam": "Google Nieuws: \"bestelbus klem viaduct Groningen\"",
       "status": "ok",
-      "items": 14
+      "items": 15
     },
     {
       "naam": "Google Nieuws: \"bestelwagen klem viaduct Groningen\"",
@@ -42,7 +42,7 @@
     {
       "naam": "Google Nieuws: \"vrachtwagen klem viaduct Groningen\"",
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     {
       "naam": "Google Nieuws: \"klem onder viaduct Sikkom\"",
@@ -57,32 +57,32 @@
     {
       "naam": "Google Nieuws: \"busje klem Grunn\"",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "naam": "Google Nieuws: \"Pop Dijkemaweg viaduct\"",
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     {
       "naam": "Google Nieuws: \"Olgerweg viaduct\"",
       "status": "ok",
-      "items": 11
+      "items": 12
     },
     {
       "naam": "Google Nieuws: \"Emmaviaduct klem\"",
       "status": "ok",
-      "items": 7
+      "items": 8
     },
     {
       "naam": "Google Nieuws: \"klem onder brug Groningen\"",
       "status": "ok",
-      "items": 48
+      "items": 10
     },
     {
       "naam": "Google Nieuws: \"klem tunnel Groningen bestelbus\"",
       "status": "ok",
-      "items": 10
+      "items": 9
     }
   ]
 }
